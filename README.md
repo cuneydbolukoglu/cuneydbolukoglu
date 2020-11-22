@@ -1,4 +1,4 @@
-### Hi there 👋 i am cüneyd i am a Front end Developer, you can <a href="mailto:cuneydbolukogluu@gmail.com">contact me</a> for advice on a topic.
+<b> Hi there</b> 👋 i am <b>Cüneyd</b> i am a <b>Front end Developer</b>, you can <a href="mailto:cuneydbolukogluu@gmail.com">contact me</a> for advice on a topic.
 
 - 🔭 I’m currently working on ...
 
