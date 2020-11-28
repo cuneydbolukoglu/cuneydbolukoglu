@@ -1,7 +1,11 @@
 <h2>👋 Hi there! I'm Cüneyd</h2>  
-- ⚡  I have been a Freelance Front End Developer for a while
+
+- ⚡ I have been a Freelance Front End Developer for a while
+
 - 🔭 I love to code in Javascript.
+
 - 📫 You can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> for advice on a topic.
+
 - Developing advanced applications with React.
 - Do component-based coding.
 - Working with Web APIs
