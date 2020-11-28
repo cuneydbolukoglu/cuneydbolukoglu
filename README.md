@@ -1,4 +1,4 @@
-<h3>👋 Hi there! I'm Cüneyd</h3>  
+<h2>👋 Hi there! I'm Cüneyd</h2>  
 - ⚡  I have been a Freelance Front End Developer for a while
 - 🔭 I love to code in Javascript.
 - 📫 You can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> for advice on a topic.
@@ -7,7 +7,7 @@
 - Working with Web APIs
 - And More
 
-<h3>Keep in Touch</h3>
+<h2>Keep in Touch</h2>
 <a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> . <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuneydbolukoglu&show_icons=true" alt="cuneydbolukoglu" />
