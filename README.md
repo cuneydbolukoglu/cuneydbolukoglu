@@ -1,16 +1,14 @@
-<h2>Hi there 👋</h2>  
-i am <b>Cüneyd</b> i am a <b>Front end Developer</b>, you can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> for advice on a topic.
-
-
-<h2> 🔭 I’m currently working on ...</h2>
-
+<h3>👋 Hi there! I'm Cüneyd</h3>  
+- ⚡  I have been a Freelance Front End Developer for a while
+- 🔭 I love to code in Javascript.
+- 📫 You can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> for advice on a topic.
 - Developing advanced applications with React.
 - Do component-based coding.
 - Working with Web APIs
-- I am doing resource on the Design System.
 - And More
 
-<img src="https://camo.githubusercontent.com/58e9c3001cf685581b2f693064b45f23dafd710dffe9b687d473df775312bb0a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3230323332613f6c6f676f3d7265616374267374796c653d666c6174266c6f676f436f6c6f723d363164616662"> 
+<h3>Keep in Touch</h3>
+<a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> . <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuneydbolukoglu&show_icons=true" alt="cuneydbolukoglu" />
 
