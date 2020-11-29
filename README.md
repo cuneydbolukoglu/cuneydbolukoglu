@@ -1,15 +1,11 @@
 <h2>👋 Hi there! I'm Cüneyd</h2>  
 
 - ⚡ I have been a Freelance Front End Developer for a while
-
 - 🔭 I love to code in <b>Javascript</b>.
-
-- 📫 You can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> for advice on a topic.
-
+- 📫 To <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> 
 - Developing advanced applications with <b>React</b>.
 - Do <b>component</b>-based coding.
 - Working with Web APIs
-- And More
 
 <h2>Keep in Touch</h2>
 <a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> - <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a>
