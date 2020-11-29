@@ -2,12 +2,12 @@
 
 - ⚡ I have been a Freelance Front End Developer for a while
 
-- 🔭 I love to code in Javascript.
+- 🔭 I love to code in <b>Javascript</b>.
 
 - 📫 You can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b> for advice on a topic.
 
-- Developing advanced applications with React.
-- Do component-based coding.
+- Developing advanced applications with <b>React</b>.
+- Do <b>component</b>-based coding.
 - Working with Web APIs
 - And More
 
