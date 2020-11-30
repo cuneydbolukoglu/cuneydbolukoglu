@@ -8,7 +8,7 @@
 - Working with Web APIs
 
 <h2>Keep in Touch</h2>
-<a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> - <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a>
+<a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> - <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a> - <a href="https://codepen.io/cuneyd" target="_blank">CodePen</a>
 
 <!--
 **cuneydbolukoglu/cuneydbolukoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
