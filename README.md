@@ -8,7 +8,7 @@
 - Working with Web APIs
 
 <h2>Keep in Touch</h2>
-<a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> - <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a> - <a href="https://codepen.io/cuneyd" target="_blank">CodePen</a> - <a href="https://gist.github.com/cuneydbolukoglu" target="_blank">GitHub Gist</a>
+<a href="https://cuneydbolukoglu.github.io" target="_blank">Website</a> - <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank">LinkedIn</a> - <a href="https://codepen.io/cuneyd" target="_blank">CodePen</a> - <a href="https://cuneyd.medium.com" target="_blank">Medium</a>
 <br /><br />
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25"/></p>
