@@ -1,6 +1,6 @@
 <h2>👋 Hi there! I'm Cüneyd</h2>  
 
-- ⚡ I have been a Freelance Front End Developer for a while
+- ⚡ Front-End Developer at Sekom. from Turkey.
 - 🔭 I love to code in <b>Javascript</b>.
 - 📫 If you have anything to ask, you can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b>. 
 - 💬 Developing advanced applications with <b>React</b>.
