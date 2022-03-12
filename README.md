@@ -10,8 +10,6 @@
 
 ### Connect with me:
 <a href="https://linkedin.com/in/cuneydbolukoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="width:25px" /></a>
-<br>
-<br>
 <a href="https://codepen.io/cuneyd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" style="width:25px"/></a>
 <a href="https://cuneyd.medium.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" style="width:25px"/></a>
 
