@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Cuneyd</h1>
-<h3>A passionate frontend developer from Turkey</h3>
 
 - ⚡ Front-End Developer at Sekom. from Turkey.
 - 🔭 I love to code in <b>Javascript</b>.
