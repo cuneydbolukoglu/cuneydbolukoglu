@@ -10,6 +10,7 @@
 <span>
 <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'></a>
 <a href="https://stackoverflow.com/users/14733959/cuneyd" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/stackoverflow.svg' alt='stackoverflow' height='25'></a>
+  <a href="https://www.npmjs.com/~cuneyd" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/npm.svg' alt='npm' height='25'></a>
 <a href="https://cuneyd.medium.com/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/medium.svg' alt='medium' height='25'></a>
 <a href="https://codepen.io/cuneyd" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/codepen.svg' alt='codepen' height='25'></a>
 <a href="https://dribbble.com/cuneyd" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/dribbble.svg' alt='dribble' height='25'></a>
