@@ -6,6 +6,7 @@
 - 💬 Developing advanced applications with <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
 - Do <b>component</b>-based coding.
 - Working with Web APIs
+- I'm currently learning React native
 
 <span>
 <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank"><img src='https://raw.githubusercontent.com/cuneydbolukoglu/cuneydbolukoglu/d4e6365d55ae541e0ca52a33fb443b24fcf06df4/img/linkedin.svg' alt='linkedin' height='25'></a>
