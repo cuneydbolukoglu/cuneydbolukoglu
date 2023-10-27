@@ -2,9 +2,7 @@
 
 - ⚡ Front-End Developer at Sekom. from Turkey.
 - 🔭 I love to code in <b>Javascript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-- 📫 If you have anything to ask, you can <b><a href="mailto:cuneydbolukogluu@gmail.com">contact me</a></b>. 
 - 💬 Developing advanced applications with <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
-- Do <b>component</b>-based coding.
 - Working with Web APIs
 - I love building mobile apps with React Native
 
