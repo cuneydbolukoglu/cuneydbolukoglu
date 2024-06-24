@@ -1,10 +1,16 @@
-<h2>Hi 👋, I'm Cuneyd</h2>
+<h1>Hello 👋, I'm Cüneyd</h1>
 
-- ⚡ Front-End Developer at Sekom. from Turkey.
-- 🔭 I love to code in <b>Javascript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-- 💬 Developing advanced applications with <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
-- Working with Web APIs
-- I love building mobile apps with React Native
+> - ⚡Front-End Developer at Sekom. from Turkey.
+> - 🔭 I love to code in <b>Javascript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+> - 💬 Developing advanced applications with <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
+> - Working with Web APIs
+> - I love building mobile apps with React Native
+
+~ Projects
+
+> Strong random password generator --> http://musclepassword.com
+
+~ Links
 
 <span>
 <a href="https://www.linkedin.com/in/cuneydbolukoglu/" target="_blank"><img src='https://raw.githubusercontent.com/cuneydbolukoglu/cuneydbolukoglu/d4e6365d55ae541e0ca52a33fb443b24fcf06df4/img/linkedin.svg' alt='linkedin' height='25'></a>
@@ -14,8 +20,3 @@
 <a href="https://codepen.io/cuneyd" target="_blank"><img src='https://raw.githubusercontent.com/cuneydbolukoglu/cuneydbolukoglu/d4e6365d55ae541e0ca52a33fb443b24fcf06df4/img/codepen.svg' alt='codepen' height='25'></a>
 <a href="https://dribbble.com/cuneyd" target="_blank"><img src='https://raw.githubusercontent.com/cuneydbolukoglu/cuneydbolukoglu/d4e6365d55ae541e0ca52a33fb443b24fcf06df4/img/dribbble.svg' alt='dribbble' height='25'></a>
 </span>
-
-<h1>New Project !</h1>
-Strong random password generator
-
-<a href="http://musclepassword.com" target="_blank">musclepassword.com</a>
