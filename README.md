@@ -1,4 +1,4 @@
-<h1>~ Hello 👋, I'm Cüneyd</h1>
+<h1>Hello 👋, I'm Cüneyd</h1>
 
 - ⚡Front-End Developer at Sekom. from Turkey.
 - 🔭 I love to code in <b>Javascript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
