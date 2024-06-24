@@ -1,14 +1,14 @@
-<h1>Hello 👋, I'm Cüneyd</h1>
+<h1>~ Hello 👋, I'm Cüneyd</h1>
 
-> - ⚡Front-End Developer at Sekom. from Turkey.
-> - 🔭 I love to code in <b>Javascript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-> - 💬 Developing advanced applications with <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
-> - Working with Web APIs
-> - I love building mobile apps with React Native
+- ⚡Front-End Developer at Sekom. from Turkey.
+- 🔭 I love to code in <b>Javascript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+- 💬 Developing advanced applications with <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
+- Working with Web APIs
+- I love building mobile apps with React Native
 
 ~ Projects
 
-> Strong random password generator --> http://musclepassword.com
+- Strong random password generator --> http://musclepassword.com
 
 ~ Links
 
