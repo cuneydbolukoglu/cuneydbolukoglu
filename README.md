@@ -18,4 +18,4 @@
 <h1>New Project !</h1>
 Strong random password generator
 
-<a href="https://musclepassword.com" target="_blank">musclepassword.com</a>
+<a href="http://musclepassword.com" target="_blank">musclepassword.com</a>
