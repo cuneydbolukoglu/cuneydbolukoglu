@@ -1,6 +1,6 @@
 <h1>Hello, I'm Cüneyd</h1>
 
-Front-End Developer at [Sekom](http://www.sekom.com.tr). from Turkey. I am experienced and successful in Javascript. I love developing advanced and innovative applications using React. I work with web apis and create my own apis with next js. I am also very enthusiastic about creating mobile applications with React Native, which allows me to create dynamic and responsive mobile solutions.
+Front-End Developer at Sekom. from Turkey. I am experienced and successful in Javascript. I love developing advanced and innovative applications using React. I work with web apis and create my own apis with next js. I am also very enthusiastic about creating mobile applications with React Native, which allows me to create dynamic and responsive mobile solutions.
 
 ### Follow Me
 
