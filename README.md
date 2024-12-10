@@ -25,3 +25,7 @@ I am also very enthusiastic about creating mobile applications with React Native
 <img src="https://avatars.githubusercontent.com/u/151626010?s=200&v=4" style="width: 20px" alt="logo" /> Muscle Password - Strong random password generator
 <br />
 [http://musclepassword.com](http://musclepassword.com)
+
+Chrome Extensiton
+
+https://chromewebstore.google.com/detail/muscle-password/iimjcckbcjoehbfekigjpnlgmjllmgdk
