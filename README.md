@@ -27,5 +27,4 @@ I am also very enthusiastic about creating mobile applications with React Native
 [http://musclepassword.com](http://musclepassword.com)
 
 Chrome Extensiton
-
 https://chromewebstore.google.com/detail/muscle-password/iimjcckbcjoehbfekigjpnlgmjllmgdk
