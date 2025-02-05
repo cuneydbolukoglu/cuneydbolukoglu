@@ -14,11 +14,12 @@ I am also very enthusiastic about creating mobile applications with React Native
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-333.svg?logo=stackoverflow&logoColor=white&style=flat&color=orange)](https://stackoverflow.com/users/14733959/cuneyd)
 
 
-### 🛠 Tech Stack
+### 🛠 Skills
 
 ![Javascript](https://img.shields.io/badge/Javascript-333.svg?logo=javascript&logoColor=#F7DF1E&style=flat&color=)
 ![React](https://img.shields.io/badge/React-333.svg?logo=react&logoColor=#61DAFB&style=flat)
 ![Nextjs](https://img.shields.io/badge/Nextjs-333.svg?logo=nextdotjs&logoColor=#61DAFB&style=flat)
+![React Native](https://img.shields.io/badge/React%20Native-333.svg?logo=react&logoColor=#61DAFB&style=flat)
 
 ## Projects
 
