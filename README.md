@@ -1,4 +1,4 @@
-# Hello, I'm Cüneyd 👋
+## Hello, I'm Cüneyd 👋
 
 Front-End Developer at **Sekom** from **Turkey**. I specialize in **JavaScript** and have a proven track record of success in building modern web applications. I am passionate about creating advanced and innovative solutions using **React**, and I enjoy working with **Web APIs** while also developing my own APIs with **Next.js**. Additionally, I am enthusiastic about building dynamic and responsive mobile applications using **React Native**.
 
