@@ -35,3 +35,5 @@ Front-End Developer at **Sekom** from **Turkey**. I specialize in **JavaScript**
 
 ### 📫 Let's Connect!
 Feel free to reach out to me for collaborations, questions, or just to say hi! 😄
+
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=cuneydbolukoglu)
